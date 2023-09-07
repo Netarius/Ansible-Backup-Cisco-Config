@@ -1,5 +1,5 @@
 # Ansible-Backup-Cisco-Config
-# Created by Fajar for IT automation test case
+# Created for IT automation test case
 # running smoothly on
 # - ubuntu 16.04 LTS
 # - ansible 2.4.1.0
