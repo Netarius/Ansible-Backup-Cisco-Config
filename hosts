@@ -15,9 +15,9 @@ password=cisco
 localhost
 
 [cisco-ios]
-SWITCH-ANSIBLE host=10.85.0.182
-FIREWALL-ANSIBLE host=10.85.0.184
-#10.85.0.183
+SWITCH-ANSIBLE host=xx.xx.xx.xx
+FIREWALL-ANSIBLE host=xx.xx.xx.xx
+
 
 [cisco-nxos]
 ROUTER-ANSIBLE host=10.85.0.183
