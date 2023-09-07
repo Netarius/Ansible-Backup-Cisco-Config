@@ -1,5 +1,5 @@
 ---
-### Created by Fajar for IT Automation test case ###
+
 - name: Create today local directory
   hosts: localhost
   gather_facts: no
